@@ -83,7 +83,7 @@ nav{
 .project{
     border: 5px solid black;
     border-radius: 10px;
-    padding:1rem;
+    padding:4rem;
 }
 .project:hover, #skills ul li:hover{
     background: radial-gradient(#00aaff);
