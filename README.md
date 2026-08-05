@@ -1,3 +1,3 @@
 # Digital Portfolio Demo
 
-A small, simple outline of my abominations made so far as a beginner coder.
+A small, simple outline of what I have made and my journey so far in learning web-development.
