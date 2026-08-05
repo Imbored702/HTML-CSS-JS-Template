@@ -112,15 +112,9 @@ nav{
 .center{
     margin:1rem auto;
 }
-.down-arrow-line {
-  width: 40px;               /* Width of the arrow */
-  height: 40px;              /* Height of the arrow */
-  border-right: 6px solid #333; /* Thickness and color */
-  border-bottom: 6px solid #333;
-  transform: rotate(45deg);  /* Points the corner downward */
-  margin: 20px auto;
-  justify-content: center;
-  align-items: center;
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
 }
 
 
